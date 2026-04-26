@@ -1,0 +1,12 @@
+data/
+*.RData
+*.RDataTmp
+.Rhistory
+.RData
+desktop.ini
+04_report_cache/
+04_report_files/
+04_report.html
+*.pdf
+*.rar
+*.zip
